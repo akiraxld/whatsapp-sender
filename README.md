@@ -8,9 +8,18 @@
 
 **Требования:** Python 3.10+, Google Chrome
 
-```bash
-pip install selenium pandas
-```
+1. Клонировать репозиторий:
+   ```bash
+   git clone https://github.com/akiraxld/whatsapp-sender.git
+   cd whatsapp-sender
+   ```
+
+3. Установить зависимости:
+   ```bash
+    pip install selenium pandas
+    ```
+
+
 
 ---
 
